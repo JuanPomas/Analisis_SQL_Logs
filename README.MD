@@ -64,7 +64,7 @@ pip install duckdb
 ## Ejecución
 
 ```bash
-python analisis_logs.py
+python logs.py
 ```
 
 ## Autor
